@@ -20,10 +20,10 @@
 
 title:            'Dramay | ڈرامے'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
-logo:             '/assets/logo.png'
+url:              'https://emontp.github.io'
+baseurl:          '/pk-dramas-mini-archive'
+copyright:        'CC BY, 2021'
+logo:             '/assets/logotv.jpg'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
